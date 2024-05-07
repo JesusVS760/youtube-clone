@@ -5,3 +5,7 @@
   grid-column-gap: 16px;
   margin-top: 15px;
 }
+.card img {
+  width: 100%;
+  border-radius: 5px;
+}
