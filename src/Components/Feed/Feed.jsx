@@ -10,7 +10,14 @@ import tumbnail7 from "../../assets/thumbnail7.png";
 import tumbnail8 from "../../assets/thumbnail8.png";
 
 const Feed = () => {
-  return <div className="card"></div>;
+  return (
+    <div className="card">
+      <img src={tumbnail1} alt="" />
+      <h2>Best channel to learn coding that help you be a web delveloper</h2>
+      <h3>Greatstack</h3>
+      <p>15k views &bull; 2 days ago</p>
+    </div>
+  );
 };
 
 export default Feed;
