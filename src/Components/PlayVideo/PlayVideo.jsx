@@ -43,6 +43,107 @@ const PlayVideo = () => {
           <button>Subscribe</button>
         </div>
       </div>
+      <div className="vid-description">
+        <p>Channel that makes learning easy</p>
+        <p>Watch my channel for more amazing videos</p>
+        <hr />
+        <h4>130 Comments</h4>
+        <div className="comment">
+          <img src={user_profile} />
+          <div>
+            <h3>
+              James Rider <span>1 day ago</span>{" "}
+            </h3>
+            <p>
+              Wow, this video totally changed my life! I was skeptical at first,
+              but after watching it, I feel like I can conquer anything. Thanks
+              for sharing.
+            </p>
+            <div className="comment-action">
+              <img src={like} />
+              <span>244</span>
+              <img src={dislike} />
+              <span>12</span>
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} />
+          <div>
+            <h3>
+              James Rider <span>1 day ago</span>{" "}
+            </h3>
+            <p>
+              Wow, this video totally changed my life! I was skeptical at first,
+              but after watching it, I feel like I can conquer anything. Thanks
+              for sharing.
+            </p>
+            <div className="comment-action">
+              <img src={like} />
+              <span>244</span>
+              <img src={dislike} />
+              <span>12</span>
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} />
+          <div>
+            <h3>
+              James Rider <span>1 day ago</span>{" "}
+            </h3>
+            <p>
+              Wow, this video totally changed my life! I was skeptical at first,
+              but after watching it, I feel like I can conquer anything. Thanks
+              for sharing.
+            </p>
+            <div className="comment-action">
+              <img src={like} />
+              <span>244</span>
+              <img src={dislike} />
+              <span>12</span>
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} />
+          <div>
+            <h3>
+              James Rider <span>1 day ago</span>{" "}
+            </h3>
+            <p>
+              Wow, this video totally changed my life! I was skeptical at first,
+              but after watching it, I feel like I can conquer anything. Thanks
+              for sharing.
+            </p>
+            <div className="comment-action">
+              <img src={like} />
+              <span>244</span>
+              <img src={dislike} />
+              <span>12</span>
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} />
+          <div>
+            <h3>
+              James Rider <span>1 day ago</span>{" "}
+            </h3>
+            <p>
+              Wow, this video totally changed my life! I was skeptical at first,
+              but after watching it, I feel like I can conquer anything. Thanks
+              for sharing.
+            </p>
+            <div className="comment-action">
+              <img src={like} />
+              <span>244</span>
+              <img src={dislike} />
+              <span>12</span>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
