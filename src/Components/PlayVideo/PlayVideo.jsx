@@ -33,15 +33,15 @@ const PlayVideo = () => {
             Save
           </span>
         </div>
-        <hr />
-        <div className="publisher">
-          <img src={jack} />
-          <div>
-            <p>Jesus Vazquez</p>
-            <span>1M Subscribers</span>
-          </div>
-          <button>Subscribe</button>
+      </div>
+      <hr />
+      <div className="publisher">
+        <img src={jack} />
+        <div>
+          <p>Jesus Vazquez</p>
+          <span>1M Subscribers</span>
         </div>
+        <button>Subscribe</button>
       </div>
       <div className="vid-description">
         <p>Channel that makes learning easy</p>
